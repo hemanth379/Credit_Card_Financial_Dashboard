@@ -75,12 +75,12 @@ Previous_week_Revenue = CALCULATE(
 
 ## Project Findings & Insights
 
-### Week on Week Change
+### Week on Week Changes from (week 52 to 53)
 
 - Revenue increased by 28.8%
 - Total Transaction Amount increased by 25.9%
 
-### Overview Year to Date
+### Overall Insights
 
 - Overall revenue is $57M
 - Total interest is $8M
