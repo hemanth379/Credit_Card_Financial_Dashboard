@@ -1,4 +1,4 @@
-# Credit Card Financial Project
+# Credit Card Financial Power BI Dashboard
 
 ## Project Objective
 
