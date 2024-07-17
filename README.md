@@ -9,6 +9,10 @@ The Credit Card Transaction Report Dashboard provides an overview of key perform
 
 ### Credit Card Customer Dashboard
 ![WhatsApp Image 2024-07-17 at 18 37 35](https://github.com/user-attachments/assets/e6c36d2c-0691-4fda-8bee-bdd890c2fe3f)
+
+The Credit Card Customer Report Dashboard provides key insights into customer demographics and financial performance. It highlights total revenue ($57M), total interest ($8M), and income ($588M), along with a Customer Satisfaction Score (CSS) of 3.19. The dashboard breaks down revenue by age group, marital status, income group, dependents, and education level. It also shows revenue trends by week and top contributing states, with detailed insights into revenue and interest earned by customer job categories. Filters for week start date, gender, and card category enable in-depth analysis.
+
+
 ## Project Objective
 
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
@@ -87,7 +91,3 @@ Previous_week_Revenue = CALCULATE(
 - Overall activation rate is 57.5%
 - Overall delinquent rate is 6.06%
 - Self-employed individuals have the highest delinquent rate at 1.66%
-
-
-
-The Credit Card Customer Report Dashboard provides key insights into customer demographics and financial performance. It highlights total revenue ($57M), total interest ($8M), and income ($588M), along with a Customer Satisfaction Score (CSS) of 3.19. The dashboard breaks down revenue by age group, marital status, income group, dependents, and education level. It also shows revenue trends by week and top contributing states, with detailed insights into revenue and interest earned by customer job categories. Filters for week start date, gender, and card category enable in-depth analysis.
